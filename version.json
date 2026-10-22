@@ -1,1 +1,6 @@
-{"app": "alshams", "version": "1.0.0", "download_url": "https://github.com/bahaaezzat1993-ctrl/alshams-update/releases/latest", "notes": "First release"}
+{
+ "app": "alshams",
+ "version": "2.0.0",
+ "download_url": "https://www.dropbox.com/scl/fi/m0245m6cbpmmz6b1kao6y/AlShams-Setup-2.0.0.exe?rlkey=lpjkroz4ko2ut1c9xa19ar41y&st=1r2ggp5h&dl=1",
+ "notes": "اصلاح بعض المشاكل والاخطاء"
+}
