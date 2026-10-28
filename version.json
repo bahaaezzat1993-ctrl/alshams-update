@@ -1,6 +1,6 @@
 {
  "app": "alshams",
- "version": "2.3.0",
- "download_url": "https://www.dropbox.com/scl/fi/c41nxspnv24n6nj65nmd9/AlShams-Setup-2.2.5.exe?rlkey=fdlue3vsbvfenlqr2i9pwej11&st=zkzte6wl&dl=1",
- "notes": "تعديل شكل المخزن والمواد"
+ "version": "2.4.0",
+ "download_url": "https://www.dropbox.com/scl/fi/bfimxeg01jhtgceuw8ahe/AlShams-Setup-2.4.0.exe?rlkey=6tqnus84i3h6qwj29hp035jff&st=kfqxf0xl&dl=1",
+ "notes": "تعديل الفواتير لفتح صفحة اخرى عند امتلاء الحقول\nسحب ملف اكسل تفصيلي بالمواد\nتعديل التاريخ في الكشوفات والحركات\nاعطاء صلاحيات مخصصة اكثر لمستخدمي النظام\nسعر الصرف مع اشارة بالارتفاع والانخفاض\nاضافة زر تعليق الفاتورة مع التنبيه  لوجود فاتورة معلقة"
 }
